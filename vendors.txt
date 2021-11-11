@@ -1,5 +1,0 @@
-pqr
-abc
-opp
-new vendor data
-commit
